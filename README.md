@@ -25,6 +25,10 @@ The code contains the following elements:
 ### Error Handling
 
 - Handles invalid inputs when selecting difficulty or entering guesses, ensuring the player provides integers.
+
+### Project URL
+
+- https://roadmap.sh/projects/number-guessing-game
   
 ## Running the Game
 
